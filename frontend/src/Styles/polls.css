@@ -1,0 +1,26 @@
+.pollCntr {
+    width: 75%;
+    display: inline-block;
+    justify-content: space-evenly;
+    align-items: space-evenly;
+}
+
+.vote-btn {
+    width: 20%;
+    margin: 0 .5rem;
+}
+
+.button-text {
+    font-weight: 400;
+}
+
+.votes-title {
+    font-weight: 500;
+}
+
+.title-percent {
+    font-size: .6rem;
+    font-weight: 500;
+    margin-left: .15rem;
+    margin-right: .25rem;
+}
